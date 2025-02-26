@@ -1,0 +1,4 @@
+streamlit
+lightning-sdk
+Pillow
+dspy-ai
